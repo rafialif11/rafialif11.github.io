@@ -20,8 +20,11 @@ I'm currently working on Project web kominfo
 Brief description of personal data
 
 SDN BULAK 02
+
 SMPN 9 TANGSEL
+
 SMK MUHAMMADIYAH 3 TANGSEL
+
 BOOTCAMP PIJARCAMP 
 
 ## Sosmed
