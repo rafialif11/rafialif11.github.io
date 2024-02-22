@@ -4,23 +4,17 @@ Rafi Alif
 A brief description of what this project does and who it's for
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+I'm currently working on Project web kominfo
 
-🧠 I'm currently learning...
+🧠 I'm currently learning Golang
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate
 
-🤔 I'm looking for help with...
+🤔 I'm looking for help with senior programmer
 
-💬 Ask me about...
+💬 Ask me about JavaScript
 
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
-
+📫 How to reach me instagram and whatsApp
 
 ## Sosmed
 
