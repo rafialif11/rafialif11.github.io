@@ -16,7 +16,17 @@ I'm currently working on Project web kominfo
 
 📫 How to reach me instagram and whatsApp
 
+
+Brief description of personal data
+
+SDN BULAK 02
+SMPN 9 TANGSEL
+SMK MUHAMMADIYAH 3 TANGSEL
+BOOTCAMP PIJARCAMP 
+
 ## Sosmed
 
 - [instagram](https://www.instagram.com/rapiialip__)
+- [whatsapp](https://wa.me/+6287880258379)
+- [email](rafialif88@gmail.com)
 
