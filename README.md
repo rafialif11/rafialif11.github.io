@@ -31,5 +31,5 @@ BOOTCAMP PIJARCAMP
 
 - [instagram](https://www.instagram.com/rapiialip__)
 - [whatsapp](https://wa.me/+6287880258379)
-- [email rafialif88@gmail.com]
+- email rafialif88@gmail.com
 
